@@ -1,2 +1,1 @@
-# imaweather
-An android weather application.
+省市列表，天气获得，天气显示，天气每一小时更新一次，也可手动更新
